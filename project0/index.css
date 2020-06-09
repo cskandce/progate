@@ -1,0 +1,12 @@
+body{
+	h1{
+		color : red;
+		}
+		a::before {
+  content: "\21d2";
+  font-weight : bold
+  }		
+   ol > li {
+      color: yellow;
+	  background-color:white
+  }
